@@ -13,33 +13,15 @@
                     <key>url</key>
                     <string>http://luoji.iask.in/app/weixin2.ipa</string>
                 </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>needs-shine</key>
-                    <false/>
-                    <key>url</key>
-                    <string>http://luoji.iask.in/app/weixin2.png</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <false/>
-                    <key>url</key>
-                    <string>http://luoji.iask.in/app/weixin2.png</string>
-                </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>app.gp.gptest2</string>
+                <string>com.fnst.smartwork</string>
                 <key>bundle-version</key>
-                <string>6.3.6</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
-                <key>subtitle</key>
-                <string>微信</string>
                 <key>title</key>
                 <string>微信</string>
             </dict>

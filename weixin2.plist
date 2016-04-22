@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://luoji.iask.in/weixin2.ipa</string>
+                    <string>http://app.pgyer.com/ead71c6f873c6b34557a578a32db654e.ipa?v=1.1&amp;sign=b191ac49eaa5b36733c6ca68af4d5c44&amp;t=571a6019&amp;attname=wx_02-resigned.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://luoji.iask.in/weixin2.png</string>
+                    <string>http://www.pgyer.com/image/view/app_icons/47532bfc7ddb87be1060a8156f400ab4</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://luoji.iask.in/weixin2.png</string>
+                    <string>http://www.pgyer.com/image/view/app_icons/47532bfc7ddb87be1060a8156f400ab4</string>
                 </dict>
             </array>
             <key>metadata</key>

@@ -30,10 +30,10 @@ port =  8000
 
 [Proxy]
 🇨🇳 = direct
-🇭🇰 = custom,119.81.187.4,20417,aes-256-cfb,851013,https://down.qingjie.me:443/surge/ss.module,tcp-fast-open=true
-🇰🇷 = custom,52.79.175.240,443,chacha20,851013,https://down.qingjie.me:443/surge/ss.module,tcp-fast-open=true
-🇺🇸 = custom,45.32.10.144,443,aes-256-cfb,teddysun.com,https://down.qingjie.me:443/surge/ss.module,tcp-fast-open=trued
-🇯🇵 = custom,210.129.23.45,443,chacha20,851013,https://down.qingjie.me:443/surge/ss.module,tcp-fast-open=trued
+🇭🇰 = custom,,20417,aes-256-cfb,851013,https://down.qingjie.me:443/surge/ss.module,tcp-fast-open=true
+🇰🇷 = custom,,443,chacha20,851013,https://down.qingjie.me:443/surge/ss.module,tcp-fast-open=true
+🇺🇸 = custom,,443,aes-256-cfb,teddysun.com,https://down.qingjie.me:443/surge/ss.module,tcp-fast-open=trued
+🇯🇵 = custom,,443,chacha20,851013,https://down.qingjie.me:443/surge/ss.module,tcp-fast-open=trued
 
 
 [Proxy Group]
